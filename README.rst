@@ -1,7 +1,7 @@
 Python tvOS Template
 ====================
 
-A template for building Python apps that will run under Apple tvOS.
+A template for building Python 3.5 apps that will run under Apple tvOS.
 
 Using this template
 -------------------
