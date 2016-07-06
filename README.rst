@@ -22,7 +22,7 @@ Using this template
 
    * ``Python.framework``
 
-   Alternatively, you can download the `Python-iOS-support`_ project, and
+   Alternatively, you can download the `Python-Apple-support`_ project, and
    build your own versions of the tvOS frameworks.
 
    These framework directories should be placed in the same directory as
@@ -87,7 +87,7 @@ contains the source module, and an iOS directory at the same level that
 links in the project source::
 
     myproject/
-        iOS/
+        tvOS/
            app/
                myproject -> ../../myproject
            ...
@@ -99,6 +99,6 @@ links in the project source::
 
 .. _cookiecutter: http://github.com/audreyr/cookiecutter
 .. _Download the Python tvOS support package: https://github.com/pybee/Python-iOS-support/releases/download/3.4.2-b4/Python-3.4.2-tvOS-support.b4.tar.gz
-.. _Python-iOS-support: http://github.com/pybee/Python-iOS-support
+.. _Python-Apple-support: http://github.com/pybee/Python-Apple-support
 .. _toga: http://pybee.org/toga
 .. _Rubicon: http://github.com/pybee/rubicon-objc
