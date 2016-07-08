@@ -3,7 +3,5 @@
     "formal_name": "App Name",
     "organization_name": "Example Corporation",
     "dir_name": "tvOS",
-    "bundle": "com.example",
-    "year": "2016",
-    "month": "July"
+    "bundle": "com.example"
 }
